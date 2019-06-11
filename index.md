@@ -4,7 +4,7 @@
 
 # Asian Town Farmer
 [Availible on PlayStore](https://play.google.com/store/apps/details?id=com.playkids.asian.town.farmergame.build.harvest.offlinefarm)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/asian.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
