@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+# Asian Town Farmer
+<br>
+[Availible on PlayStore](https://play.google.com/store/apps/details?id=com.playkids.asian.town.farmergame.build.harvest.offlinefarm)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
