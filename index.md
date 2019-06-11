@@ -2,7 +2,7 @@
 
 ---
 
-<img src="images/asian.png?raw=true"/>## Asian Town Farmer
+<img src="images/asian.png?raw=true"/>                ### Asian Town Farmer
 <br>
 [Availible on PlayStore](https://play.google.com/store/apps/details?id=com.playkids.asian.town.farmergame.build.harvest.offlinefarm)
 <br>
