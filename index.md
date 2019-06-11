@@ -2,10 +2,11 @@
 
 ---
 
-# Asian Town Farmer
+<img src="images/asian.png?raw=true"/>
+## Asian Town Farmer
+<br>
 [Availible on PlayStore](https://play.google.com/store/apps/details?id=com.playkids.asian.town.farmergame.build.harvest.offlinefarm)
 <br>
-<img src="images/asian.png?raw=true"/>
 
 Asian Town Farmer game is a virtual farming simulator, in which you can  live the peaceful country life of a farmer and decorate your own farmland  in family farm games
 
