@@ -4,5 +4,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   Game development enthusiast having a diversified experience in leading, conceptualizing and publishing games. Having more than 4 years of experience in the industry. Have worked on technologies like Unity3D and Cocos2D. A very quick learner and a great team player. 
   <br><br>
   <a href="https://www.linkedin.com/in/mohammed-adeel-sheikh-54533355/">View My LinkedIn Profile</a> 
-  <br><br>
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+ 
+theme: jekyll-theme-minimal
